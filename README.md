@@ -1,3 +1,3 @@
-# cheta
+MY PYTHON DAILY PROJECTS
 
-amaryyy
+everyday i try to build a project on python 
